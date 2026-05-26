@@ -305,7 +305,7 @@ Use interactive slicers to analyze:
 ## 👨‍💻 Khushal Singh Sankhla
 
 <p align="center">
-  <a href="https://github.com/khushalsinghsankhla280804">
+  <a href="https://github.com/khushalsinghsankhla2808">
     <img src="https://img.shields.io/badge/GitHub-khushalsinghsankhla2808-black?style=for-the-badge&logo=github">
   </a>
 
