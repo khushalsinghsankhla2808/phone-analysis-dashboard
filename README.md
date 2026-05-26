@@ -241,8 +241,7 @@ DIVIDE(
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/khushal280804/Phone-Performance-Analytics-Dashboard.git
-```
+git clone https://github.com/khushalsinghsankhla2808/phone-analysis-dashboard.git```
 
 ---
 
