@@ -306,7 +306,7 @@ Use interactive slicers to analyze:
 
 <p align="center">
   <a href="https://github.com/khushalsinghsankhla280804">
-    <img src="https://img.shields.io/badge/GitHub-khushal280804-black?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-khushalsinghsankhla2808-black?style=for-the-badge&logo=github">
   </a>
 
   <a href="https://www.linkedin.com/in/khushal-singh-sankhla/">
